@@ -8,7 +8,7 @@ var friends = [
 	},
 	{
 		"name": "Buster",
-		"photo": "Buster.png",
+		"photo": "../images/Buster.png",
 		"scores": [5,5,5,5,5]
 		//55		
 	}
