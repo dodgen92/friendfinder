@@ -3,13 +3,13 @@ var friends = [
 	{
 		"name": "Cat Benetar",
 		"photo": "../images/Catbenetar.png",
-		"scores": [1,1,1,1,1,1,1,1,1,1]
+		"scores": [1,1,1,1,1]
 		//10
 	},
 	{
 		"name": "Buster",
 		"photo": "Buster.png",
-		"scores": [5,5,5,5,5,5,5,5,5,5]
+		"scores": [5,5,5,5,5]
 		//55		
 	}
 ];
